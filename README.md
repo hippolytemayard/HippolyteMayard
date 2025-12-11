@@ -2,11 +2,12 @@
 
 # Hippolyte Mayard
 
-**Applied Deep Learning Engineer · Computer Vision · Medical Imaging**
+**AI Engineer · Deep Learning · Computer Vision · Medical Imaging**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hippolyte-mayard-5b330a140/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hippolytemayard@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hippolytemayard)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Xa2o7yMAAAAJ&hl=fr)
 
 </div>
 
