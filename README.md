@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 👋 Hello! My name is Hippolyte Mayard. \
-I'm a passionate Deep Learning engineer with a specialization in computer vision and medical imaging. Through this platform, I'm excited to share with you my personal projects and delve into the fascinating world of artificial intelligence. \
-🧠🦷 I’m currently working at [Allisone.ai](https://www.allisone.ai/), a groundbreaking start-up dedicated to revolutionizing the field of dentistry through the power of AI. \
-📚 I am also teaching Deep Learning and computer vision with a focus on practical applications and real-world scenarios.
+I am an Applied Deep Learning engineer specializing in Computer Vision for medical imaging, designing AI systems that drive clinical efficiency, reduce operational friction, and support data-driven decision-making for healthcare providers and industry stakeholders.
+
+🦷 At [Pearl AI](https://www.hellopearl.com/), I contribute to the development and scaling of production-grade diagnostic models and inference platforms deployed across real-world dental practices. My work focuses on improving model reliability, streamlining integration, and supporting the delivery of AI solutions that generate measurable clinical and operational value at scale.
+
+📚 In parallel, I teach Deep Learning and Computer Vision, with a strong emphasis on applied methodologies, real-world deployment constraints, and the translation of research outcomes into production-ready solutions.
 
 
 ## My open source projects 🔬
@@ -26,7 +28,7 @@ I'm a passionate Deep Learning engineer with a specialization in computer vision
 [Deep Generative Models workshop @ MICCAI 2023](https://dgm4miccai.github.io/) 
 
 **Contribution** 
-Burning Glass Technologies’ data use in policy-relevant analysis: An occupationlevel assessment : [paper](https://www.oecd-ilibrary.org/docserver/cd75c3e7-en.pdf?expires=1691999339&id=id&accname=guest&checksum=483B4F421C9D935B122503E4AD2350CB) \
+Burning Glass Technologies' data use in policy-relevant analysis: An occupationlevel assessment : [paper](https://www.oecd-ilibrary.org/docserver/cd75c3e7-en.pdf?expires=1691999339&id=id&accname=guest&checksum=483B4F421C9D935B122503E4AD2350CB) \
 *Emile Cammeraat, Mariagrazia Squicciarini* \
 OECD Science, Technology and Industry Working Papers, 2021
 
@@ -37,15 +39,22 @@ OECD Science, Technology and Industry Working Papers, 2021
 - Master's in Artificial Intelligence, IASD - *Dauphine PSL*, 2020
 
 **Bachelor degree** 🎓
-- Bachelor’s degree in Applied Mathematics - *Dauphine PSL*, 2018
+- Bachelor's degree in Applied Mathematics - *Dauphine PSL*, 2018
 
 
 ## Teaching 👨‍🏫
 
 - Deep Learning, *Dauphine-PSL Tunis* ([webpage](https://tunis.dauphine.psl.eu/masters/big-data-intelligence-artificielle))
 - Deep Learning for Image Analysis, *Dauphine-PSL Tunis* ([webpage](https://tunis.dauphine.psl.eu/masters/big-data-intelligence-artificielle))
+<<<<<<< Updated upstream
 - Introduction to Deep Learning, *Sorbonne Data Analytics* ([webpage](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/diplome-d-universite-DU/diplome-d-universite-KBVXM363/diplome-d-universite-sorbonne-data-analytics-KPMK3V7Z.html))
 - Introduction to Deep Learning @[Datagong.io](https://www.datagong.io/)
+=======
+- Introduction to Deep Learning, *Sorbonne Data Analytics* - DU program
+- Introduction to Deep Learning, *Datagong.io* - Professional training
+
+
+>>>>>>> Stashed changes
 
 ## Contact
 
