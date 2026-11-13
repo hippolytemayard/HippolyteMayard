@@ -15,7 +15,7 @@
 
 ## About
 
-Senior Machine Learning Scientist at **[Pearl AI](https://www.hellopearl.com/)**, the first dental-AI company cleared by the FDA for both 2D and 3D imaging. I am the sole technical owner of its 3D CBCT pathology program, whose two FDA 510(k) submissions are filed, and I rebuilt and improved the company's 2D caries detection model, used by more than 50,000 clinicians in 120 countries.
+Senior Machine Learning Scientist at **[Pearl AI](https://www.hellopearl.com/)**, the first dental-AI company cleared by the FDA for both 2D and 3D imaging. I am the sole technical owner of its 3D CBCT pathology program, from model research to FDA 510(k) evidence and commercial release, and I own the company's 2D caries detection model, used by more than 50,000 clinicians in 120 countries.
 
 My work sits where computer-vision research becomes a regulated medical device: model and data design, operating-point selection for different clinical users, clinical validation on locked test sets, FDA 510(k) technical documentation, and production deployment.
 
